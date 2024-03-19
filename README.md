@@ -1,14 +1,13 @@
 # Hola! Soy Alex!
 
-## Soy ALex, tengo 22 años y estoy estudiando este curso de Desarrollo Web Fullstack!
+## Soy Alex, tengo 22 años, soy Ingeniero de Sistemnas y estoy estudiando Programación Web Fullstack!
 
 
-## Contactame
-WSP: +51 923873418
+## Contacto
+Celular: +51 923873418
 
-correo: abc@gmail.com
+Correo: alex.toledo.zavala@gmail.com
 
 
 ## Otro
-
-A........
+País: Peru
