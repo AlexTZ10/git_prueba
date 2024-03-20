@@ -17,3 +17,4 @@ País: Peru
 - HTML
 - CSS
 - JS
+- Python
