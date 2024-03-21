@@ -12,3 +12,6 @@ Correo: alex.toledo.zavala@gmail.com
 ## Otro
 País: Peru
 
+## Languages
+- Spanish
+- English
