@@ -8,9 +8,23 @@ Celular: +51 923873418
 
 Correo: alex.toledo.zavala@gmail.com
 
-
 ## Otro
 País: Peru
+
+## Skills
+
+- Coaching
+
+## Hobbies
+
+- play soccer
+
+## Technologies
+
+- HTML
+- CSS
+- JS
+- Python
 
 ## Languages
 - Spanish
