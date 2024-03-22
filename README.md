@@ -8,7 +8,6 @@ Celular: +51 923873418
 
 Correo: alex.toledo.zavala@gmail.com
 
-
 ## Otro
 País: Peru
 
@@ -26,3 +25,8 @@ País: Peru
 - CSS
 - JS
 - Python
+
+## Languages
+- Spanish
+- English
+- Portuguese
