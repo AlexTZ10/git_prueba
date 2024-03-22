@@ -15,3 +15,4 @@ País: Peru
 ## Languages
 - Spanish
 - English
+- Portuguese
