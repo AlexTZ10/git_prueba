@@ -13,3 +13,9 @@ Correo: alex.toledo.zavala@gmail.com
 País: Peru
 
 
+## Technologies
+
+- HTML
+- CSS
+- JS
+- Python
