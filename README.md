@@ -12,6 +12,13 @@ Correo: alex.toledo.zavala@gmail.com
 ## Otro
 País: Peru
 
+## Skills
+
+- Coaching
+
+## Hobbies
+
+- play soccer
 
 ## Technologies
 
